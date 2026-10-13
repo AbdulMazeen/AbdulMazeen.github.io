@@ -9,5 +9,11 @@ window.PORTFOLIO = {
   // Add completed personal projects here. An empty list displays an honest coming-soon state.
   // Supported fields: title, category, description, technologies (array), image,
   // problem, input, approach, features (array), result, githubUrl, demoUrl, downloadUrl, date.
-  projects: []
+  projects: [
+    {
+      title: "Adding a Macro Enabled Header Button to an Excel Sheet Data",
+      category: "Excel & VBA",
+      githubUrl: "https://github.com/users/AbdulMazeen/projects/2"
+    }
+  ]
 };
